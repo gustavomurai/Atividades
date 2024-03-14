@@ -1,0 +1,7 @@
+Exercicio 2.2 - Gustavo Cerqueira Murai
+
+A: www.earlsautos.com/index.html 
+B: www.earlsautos.com/directions.html
+C: www.earlsautos.com/cars/new/inventory.html
+D: www.earlsautos.com/cars/used/inventory.html
+E: www.earlsautos.com/cars/new/images/minicooper.gif
